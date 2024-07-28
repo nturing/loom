@@ -1,6 +1,6 @@
 {
-  "name": "loom",
-  "version": "0.0.0.1-alpha",
+  "name": "loom-data-visualizer",
+  "version": "0.0.1",
   "description": "Data Visualization Engine for LLMs",
   "main": "server.js",
   "scripts": {
@@ -22,7 +22,10 @@
     "data",
     "analytics"
   ],
-  "author": "Nturing Technologies Private Limited",
+  "author": {
+    "name": "Nturing Technologies Private Limited",
+    "email": "admin@nturing.com"
+  },
   "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/nturing/loom/issues"

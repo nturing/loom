@@ -38,7 +38,7 @@ Additionally, Loom provides downloadable versions of the frontend for various pl
 The Loom library can be installed via npm:
 
 ```bash
-npm install loom
+npm install loom-data-visualizer
 ```
 
 ### Backend
