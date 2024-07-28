@@ -176,7 +176,7 @@ Click the button below to deploy to Google Cloud Platform:
 [![vicgalle Dataset](https://img.shields.io/badge/vicgalle-alpacagpt4/Dataset-lightgreen)](https://huggingface.co/datasets/vicgalle/alpaca-gpt4/embed/viewer/default/train)
 
 
-## Contributingg
+## Contributing
 
 We welcome contributions from the community! Please read our [contributing guidelines](CONTRIBUTING.md) for more information on how to get started.
 
