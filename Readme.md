@@ -168,6 +168,11 @@ Click the button below to deploy to Google Cloud Platform
 [![Deploy to GCP](https://storage.googleapis.com/cloudrun/button.svg)](https://console.cloud.google.com/dm/new?template=https://storage.googleapis.com/my-bucket/deployment-manager-template.yaml)
 
 
+### Netlify
+
+Click the button below to deploy to Google Cloud Platform
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8f2eedb7-aa67-4ca6-a06b-22d7ad74c2db/deploy-status)](https://app.netlify.com/sites/incredible-kitsune-266f13/deploys)
+
 ## Contributing
 
 We welcome contributions from the community! Please read our [contributing guidelines](CONTRIBUTING.md) for more information on how to get started.
