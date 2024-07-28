@@ -140,6 +140,13 @@ Configure the backend by editing the `config.js` file to suit your needs.
 
 ### One-Click Deployment
 
+### AWS
+
+Click the button below to deploy to AWS:
+
+[![Launch Stack](https://s3.amazonaws.com/cloudformation-examples/cloudformation-launch-stack.png)](https://console.aws.amazon.com/cloudformation/home?#/stacks/new?stackName=MyNodeAppStack&templateURL=https://my-bucket.s3.amazonaws.com/cloudformation-template.yaml)
+
+
 ### Azure
 
 Click the button below to deploy to Azure:
@@ -152,6 +159,13 @@ Click the button below to deploy to Azure:
 Click the button below to deploy to DigitalOcean:
 
 [![Deploy to DigitalOcean](https://www.deploytodo.com/do-btn-blue-ghost.svg)](https://cloud.digitalocean.com/droplets/new?size=s-1vcpu-1gb&image=ubuntu-20-04-x64&region=nyc3&user_data=https://raw.githubusercontent.com/nturing/loom/main/do-deploy.sh)
+
+
+### Google Cloud Platform
+
+Click the button below to deploy to Google Cloud Platform
+
+[![Deploy to GCP](https://storage.googleapis.com/cloudrun/button.svg)](https://console.cloud.google.com/dm/new?template=https://storage.googleapis.com/my-bucket/deployment-manager-template.yaml)
 
 
 ## Contributing
