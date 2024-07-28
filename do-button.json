@@ -1,0 +1,14 @@
+{
+    "name": "loom-droplet",
+    "region": "nyc3",
+    "size": "s-1vcpu-1gb",
+    "image": "ubuntu-20-04-x64",
+    "ssh_keys": null,
+    "backups": false,
+    "ipv6": false,
+    "user_data": "#!/bin/bash\nbash /opt/do-deploy.sh",
+    "private_networking": null,
+    "volumes": null,
+    "tags": ["loom"]
+  }
+  
