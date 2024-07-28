@@ -1,6 +1,6 @@
 {
   "name": "loom",
-  "version": "1.0.0",
+  "version": "0.0.0.1-alpha",
   "description": "Data Visualization Engine for LLMs",
   "main": "server.js",
   "scripts": {
