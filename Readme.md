@@ -168,20 +168,32 @@ Click the button below to deploy to Google Cloud Platform:
 [![Deploy to GCP](https://storage.googleapis.com/cloudrun/button.svg)](https://console.cloud.google.com/dm/new?template=https://storage.googleapis.com/my-bucket/deployment-manager-template.yaml)
 
 
-### Netlify
-
-Click the button below to deploy to Netlify:
-[![Netlify Status](https://api.netlify.com/api/v1/badges/8f2eedb7-aa67-4ca6-a06b-22d7ad74c2db/deploy-status)](https://app.netlify.com/sites/incredible-kitsune-266f13/deploys)
-
-
 ## Datasets
 
-[![vicgalle Dataset](https://img.shields.io/badge/vicgalle-alpacagpt4/Dataset-brightgreen)](https://huggingface.co/datasets/vicgalle/alpaca-gpt4/embed/viewer/default/train)
+[![Gutenberg Data](https://img.shields.io/badge/Gutenberg-Data-lightgreen)](https://raw.githubusercontent.com/nturing/loom/main/data/bow/gutenberg_metadata.csv)
 
 
-## Contributing
+[![vicgalle Dataset](https://img.shields.io/badge/vicgalle-alpacagpt4/Dataset-lightgreen)](https://huggingface.co/datasets/vicgalle/alpaca-gpt4/embed/viewer/default/train)
+
+
+## Contributingg
 
 We welcome contributions from the community! Please read our [contributing guidelines](CONTRIBUTING.md) for more information on how to get started.
+
+## References
+
+Vicgalle
+
+A huge thank you to Victor Gallego https://huggingface.co/vicgalle for creating and sharing the [Alpaca GPT-4 Dataset](https://huggingface.co/datasets/vicgalle/alpaca-gpt4). Your contributions to the open-source community are invaluable and greatly appreciated.
+
+[![GitHub](https://img.shields.io/badge/GitHub-vicgalle-blue)](https://github.com/vicgalle)
+
+
+
+Gutenberg
+
+Special thanks to Project Gutenberg for their incredible Gutenberg Dataset https://raw.githubusercontent.com/nturing/loom/main/data/bow/gutenberg_metadata.csv. Your efforts in making literature freely accessible to everyone are truly commendable.
+
 
 ## License
 
