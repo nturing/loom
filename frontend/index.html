@@ -1,4 +1,27 @@
 <!DOCTYPE html>
-<head></head>
-<body></body>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bag of Words with D3.js</title>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <style>
+        .bar {
+            fill: steelblue;
+        }
+        .bar:hover {
+            fill: orange;
+        }
+        .axis-label {
+            font-size: 12px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Bag of Words Visualization</h1>
+    <textarea id="textInput" rows="10" cols="50">Enter text here...</textarea>
+    <button onclick="updateVisualization()">Visualize</button>
+    <div id="chart"></div>
+    <script src="bow.js"></script>
+</body>
 </html>
