@@ -27,6 +27,7 @@ Additionally, Loom provides downloadable versions of the frontend for various pl
 - [Self-Hosting](#self-hosting)
   - [Requirements](#requirements)
   - [Provisioning](#provisioning)
+  - [One-Click Deployment](#oneclickdeployment)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -136,6 +137,22 @@ Configure the backend by editing the `config.js` file to suit your needs.
     ```
 
     Host the `dist` directory on your preferred web server.
+
+### One-Click Deployment
+
+### Azure
+
+Click the button below to deploy to Azure:
+
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https://raw.githubusercontent.com/nturing/loom/main/azuredeploy.json)
+
+
+### DigitalOcean
+
+Click the button below to deploy to DigitalOcean:
+
+[![Deploy to DigitalOcean](https://www.deploytodo.com/do-btn-blue-ghost.svg)](https://cloud.digitalocean.com/droplets/new?size=s-1vcpu-1gb&image=ubuntu-20-04-x64&region=nyc3&user_data=https://raw.githubusercontent.com/nturing/loom/main/do-deploy.sh)
+
 
 ## Contributing
 
