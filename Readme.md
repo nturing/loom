@@ -163,15 +163,21 @@ Click the button below to deploy to DigitalOcean:
 
 ### Google Cloud Platform
 
-Click the button below to deploy to Google Cloud Platform
+Click the button below to deploy to Google Cloud Platform:
 
 [![Deploy to GCP](https://storage.googleapis.com/cloudrun/button.svg)](https://console.cloud.google.com/dm/new?template=https://storage.googleapis.com/my-bucket/deployment-manager-template.yaml)
 
 
 ### Netlify
 
-Click the button below to deploy to Google Cloud Platform
+Click the button below to deploy to Netlify:
 [![Netlify Status](https://api.netlify.com/api/v1/badges/8f2eedb7-aa67-4ca6-a06b-22d7ad74c2db/deploy-status)](https://app.netlify.com/sites/incredible-kitsune-266f13/deploys)
+
+
+## Datasets
+
+[![vicgalle Dataset](https://img.shields.io/badge/vicgalle-alpacagpt4/Dataset-brightgreen)](https://huggingface.co/datasets/vicgalle/alpaca-gpt4/embed/viewer/default/train)
+
 
 ## Contributing
 
