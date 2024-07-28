@@ -1,0 +1,15 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Description: Example AWS CloudFormation Template for Node.js App
+
+Resources:
+  MyEC2Instance:
+    Type: 'AWS::EC2::Instance'
+    Properties:
+      InstanceType: 't2.micro'
+      ImageId: 'ami-0abcdef1234567890' # Replace with a valid AMI ID for your region
+      KeyName: 'my-key-pair'           # Replace with your key pair name
+      SecurityGroups: 
+        - 'my-security-group'          # Replace with your security group name
+      Tags:
+        - Key: 'Name'
+          Value: 'MyNodeAppInstance'
